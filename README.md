@@ -15,7 +15,7 @@ BudgetBee is a personal finance management application designed to help users tr
 - 📈 **Charts and Graphs**: Visualize income and expenses over time with interactive charts.
 - 🔒 **Secure Data Storage**: Passwords are hashed, and user data is securely stored in a SQL Server database.
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](https://github.com/muhammad1daniyal/BudgetBee_Finance-Tracker/blob/877c756f83873bcc9773c69ac81d23f80f440653/Dashboard%20screenshot.PNG)
 
 ---
 
@@ -51,15 +51,15 @@ BudgetBee is a personal finance management application designed to help users tr
 
 ### Future Enhancements 🚀
 
-📱 Mobile Application: Develop a mobile version.
-🔔 Budget Alerts: Notify users when they exceed budget limits.
-🌍 Multi-Currency Support: Add support for multiple currencies.
+- **📱 Mobile Application**: Develop a mobile version.
+- **🔔 Budget Alerts**: Notify users when they exceed budget limits.
+- **🌍 Multi-Currency Support**: Add support for multiple currencies.
 
 ### Contributors ✨
 
-Muhammad Daniyal
-Adeel Raza
-Zeeshan Ahmed
+1. Muhammad Daniyal
+2. Adeel Raza
+3. Zeeshan Ahmed
 
 ### Contributing
 
