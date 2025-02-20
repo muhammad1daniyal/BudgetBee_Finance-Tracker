@@ -1,6 +1,6 @@
 # BudgetBee - Personal Finance Tracker
 
-![BudgetBee Logo](assets/logo.png)
+![BudgetBee Logo](https://github.com/muhammad1daniyal/BudgetBee_Finance-Tracker/blob/fa7139ac1bd215ecc0a7a8b702d2cf025ecd6bee/logo%202.png)
 
 BudgetBee is a personal finance management application designed to help users track their income and expenses, manage budgets, and visualize their financial data through charts and graphs. Built using C# Windows Forms, BudgetBee offers a user-friendly interface for effective financial management.
 
